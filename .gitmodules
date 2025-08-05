@@ -1,0 +1,24 @@
+[submodule "example-store"]
+	path = example-store
+	url = git@github.com:Develfish-Studio/develfish-repo.example-store.git
+	branch = main
+[submodule "utils"]
+	path = utils
+	url = git@github.com:Develfish-Studio/develfish-repo.utils.git
+	branch = main
+[submodule "testing"]
+	path = testing
+	url = git@github.com:Develfish-Studio/develfish-repo.testing.git
+	branch = main
+[submodule "project"]
+	path = project
+	url = git@github.com:Develfish-Studio/develfish-repo.project.git
+	branch = main
+[submodule "project-compose"]
+	path = project-compose
+	url = git@github.com:Develfish-Studio/develfish-repo.project-compose.git
+	branch = main
+[submodule "project-spring"]
+	path = project-spring
+	url = git@github.com:Develfish-Studio/develfish-repo.project-spring.git
+	branch = main
