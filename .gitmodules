@@ -1,24 +1,24 @@
 [submodule "example-store"]
 	path = example-store
-	url = git@github.com:Develfish-Studio/develfish-repo.example-store.git
+	url = ../lorry.example-store
 	branch = main
 [submodule "utils"]
 	path = utils
-	url = git@github.com:Develfish-Studio/develfish-repo.utils.git
+	url = ../lorry.utils
 	branch = main
 [submodule "testing"]
 	path = testing
-	url = git@github.com:Develfish-Studio/develfish-repo.testing.git
+	url = ../lorry.testing
 	branch = main
 [submodule "project"]
 	path = project
-	url = git@github.com:Develfish-Studio/develfish-repo.project.git
+	url = ../lorry.project
 	branch = main
 [submodule "project-compose"]
 	path = project-compose
-	url = git@github.com:Develfish-Studio/develfish-repo.project-compose.git
+	url = ../lorry.project-compose
 	branch = main
 [submodule "project-spring"]
 	path = project-spring
-	url = git@github.com:Develfish-Studio/develfish-repo.project-spring.git
+	url = ../lorry.project-spring
 	branch = main
