@@ -25,3 +25,4 @@
 [submodule "project-vue"]
 	path = project-vue
 	url = ../lorry.project-vue
+	branch = main
