@@ -6,6 +6,10 @@
 	path = utils
 	url = ../lorry.utils
 	branch = main
+[submodule "utils-usql"]
+	path = utils-usql
+	url = ../lorry.utils-usql
+	branch = main
 [submodule "testing"]
 	path = testing
 	url = ../lorry.testing
